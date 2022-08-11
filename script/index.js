@@ -5,8 +5,8 @@ const saveButton = document.querySelector('.popup__save-button');
 const profileName = document.querySelector('.profile__name');
 const profileText = document.querySelector('.profile__text');
 const formElement = document.querySelector('.popup__form');
-const inputName = formElement.querySelector('.form__input_type_name');
-const inputText = formElement.querySelector('.form__input_type_text');
+const inputName = formElement.querySelector('.popup__input_type_name');
+const inputText = formElement.querySelector('.popup__input_type_text');
 const elements = document.querySelector('.elements');
 
 
